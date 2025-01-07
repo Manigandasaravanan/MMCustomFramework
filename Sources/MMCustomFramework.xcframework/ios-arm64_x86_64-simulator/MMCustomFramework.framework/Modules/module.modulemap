@@ -1,0 +1,6 @@
+framework module MMCustomFramework {
+  umbrella header "MMCustomFramework.h"
+  export *
+
+  module * { export * }
+}

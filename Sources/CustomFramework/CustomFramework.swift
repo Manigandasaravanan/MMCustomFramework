@@ -3,7 +3,7 @@
 
 import UIKit
 
-@objc class FrameworkController: UIViewController {
+@objc public class FrameworkController: UIViewController {
     
     @objc public var text: String?
     private var pText: String?
